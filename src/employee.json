@@ -1,0 +1,242 @@
+[
+    {
+        "id": 1,
+        "name": "Devin",  
+        "position": "Lead",
+        "team": "Packaged"
+    },
+    {
+        "id": 2,
+        "name": "Erin",  
+        "position": "Clerk",
+        "team": "Produce"
+    },
+    {
+        "id": 3,
+        "name": "Sven",  
+        "position": "Clerk",
+        "team": "Deli"
+    },
+    {
+        "id": 4,
+        "name": "Leann",  
+        "position": "Manager",
+        "team": "Packaged"
+    },
+    {
+        "id": 5,
+        "name": "Avery",  
+        "position": "Lead",
+        "team": "Front-End"
+    },
+    {
+        "id": 6,
+        "name": "Crystal",  
+        "position": "Clerk",
+        "team": "Packaged"
+    },
+    {
+      "id": 7,
+      "name": "Gonzo",  
+      "position": "Clerk",
+      "team": "Front-End"
+    },
+    {
+      "id": 8,
+      "name": "Sam",  
+      "position": "Lead",
+      "team": "Deli"
+    },
+    {
+      "id": 9,
+      "name": "Marie",  
+      "position": "Manager",
+      "team": "Deli"
+    },
+    {
+      "id": 10,
+      "name": "Hime",  
+      "position": "Manager",
+      "team": "Meat"
+    },
+    {
+      "id": 11,
+      "name": "Terry",  
+      "position": "Clerk",
+      "team": "Meat"
+    },
+    {
+      "id": 12,
+      "name": "Michelle",  
+      "position": "Clerk",
+      "team": "Front-End"
+    },
+    {
+      "id": 13,
+      "name": "Steven",  
+      "position": "Clerk",
+      "team": "Packaged"
+    },
+    {
+      "id": 14,
+      "name": "Jesse",  
+      "position": "Clerk",
+      "team": "Packaged"
+    },
+    {
+      "id": 15,
+      "name": "Joshua",  
+      "position": "Clerk",
+      "team": "Front-End"
+    },
+    {
+      "id": 16,
+      "name": "Bill",  
+      "position": "Manager",
+      "team": "Front-End"
+    },
+    {
+      "id": 17,
+      "name": "Josh",  
+      "position": "Lead",
+      "team": "Packaged"
+    },
+    {
+      "id": 18,
+      "name": "Kevin",  
+      "position": "Clerk",
+      "team": "Front-End"
+    },
+    {
+      "id": 19,
+      "name": "Nicole",  
+      "position": "Clerk",
+      "team": "Produce"
+    },
+    {
+      "id": 20,
+      "name": "Nick",  
+      "position": "Clerk",
+      "team": "Deli"
+    },
+    {
+      "id": 21,
+      "name": "Suzie",  
+      "position": "Clerk",
+      "team": "Deli"
+    },
+    {
+      "id": 22,
+      "name": "Jake",  
+      "position": "Clerk",
+      "team": "Packaged"
+    },
+    {
+      "id": 23,
+      "name": "Dana",  
+      "position": "Lead",
+      "team": "Meat"
+    },
+    {
+      "id": 24,
+      "name": "Niki",  
+      "position": "Lead",
+      "team": "Packaged"
+    },
+    {
+      "id": 25,
+      "name": "Adrienne",  
+      "position": "Lead",
+      "team": "Front-End"
+    },
+    {
+      "id": 26,
+      "name": "Austin",  
+      "position": "Clerk",
+      "team": "Front-End"
+    },
+    {
+      "id": 27,
+      "name": "Edwin",  
+      "position": "Lead",
+      "team": "Deli"
+    },
+    {
+      "id": 28,
+      "name": "Eric",  
+      "position": "Clerk",
+      "team": "Produce"
+    },
+    {
+      "id": 29,
+      "name": "Sarah",  
+      "position": "Clerk",
+      "team": "Produce"
+    },
+    {
+      "id": 30,
+      "name": "Rob",  
+      "position": "Lead",
+      "team": "Produce"
+    },
+    {
+      "id": 31,
+      "name": "Jeremy",  
+      "position": "Clerk",
+      "team": "Packaged"
+    },
+    {
+      "id": 32,
+      "name": "Laura",  
+      "position": "Clerk",
+      "team": "Deli"
+    },
+    {
+      "id": 33,
+      "name": "Melissa",  
+      "position": "Clerk",
+      "team": "Deli"
+    },
+    {
+      "id": 34,
+      "name": "Dan",  
+      "position": "Clerk",
+      "team": "Meat"
+    },
+    {
+      "id": 35,
+      "name": "Rory",  
+      "position": "Lead",
+      "team": "Front-End"
+    },
+    {
+      "id": 36,
+      "name": "Colin",  
+      "position": "Clerk",
+      "team": "Deli"
+    },
+    {
+      "id": 37,
+      "name": "Steve",  
+      "position": "Clerk",
+      "team": "Packaged"
+    },
+    {
+      "id": 38,
+      "name": "Amy",  
+      "position": "Clerk",
+      "team": "Front-End"
+    },
+    {
+      "id": 39,
+      "name": "Corey",  
+      "position": "Clerk",
+      "team": "Deli"
+    },
+    {
+      "id": 40,
+      "name": "Anthony",  
+      "position": "Clerk",
+      "team": "Packaged"
+    }
+]
